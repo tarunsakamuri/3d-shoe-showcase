@@ -1,44 +1,148 @@
-# Nike Aero-Stride v2 — 3D Shoe Showcase
+# 👟 3D Shoe Showcase
 
-A premium, high-performance 3D shoe showcase website featuring the **Nike Aero-Stride v2** with interactive biomechanical hot-spots, customizable colorways, size selectors, and an immersive scroll-based 3D animation experience.
+<div align="center">
 
-## Features
+### Experience Sneakers Like Never Before
 
-- **Immersive 3D Scroll Animation**: Watch the shoe rotate and assemble seamlessly as you scroll through the page.
-- **Interactive Tech Hot-spots**: Explore the engineering behind the shoe (Heel Cushioning, Adaptive Mesh, Traction Grip) via interactive tooltip nodes.
-- **Dynamic Configurator**: Customize the shoe colorways (Electric Teal, Crimson Flame, Carbon Obsidian) and select sizes in real-time.
-- **Fully Responsive Design**: Optimized for desktop, tablet, and mobile layouts with a modern glassmorphic UI.
+An immersive **3D Shoe Showcase** built with **React**, **Three.js**, and **React Three Fiber**, delivering realistic product visualization, smooth animations, and a modern user experience.
 
-## Getting Started
+[🌐 Live Demo](https://3d-shoe-showcase-917-beta.vercel.app/)
 
-### Prerequisites
+</div>
 
-- [Node.js](https://nodejs.org/) (v18 or higher recommended)
-- npm
+---
 
-### Installation
+## 📖 About
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/tarunsakamuri/3d-shoe-showcase.git
-   ```
+3D Shoe Showcase is a modern web application that provides an interactive way to explore footwear in a realistic 3D environment. Built with modern web technologies, it combines high-performance rendering, responsive design, and elegant animations to create a premium product presentation.
 
-2. Install dependencies:
-   ```bash
-   npm install
-   ```
+---
 
-3. Run the development server:
-   ```bash
-   npm run dev
-   ```
+## ✨ Features
 
-4. Open your browser and navigate to `http://localhost:3000`.
+- 👟 Interactive 3D Shoe Model
+- 🎮 Smooth Camera Controls
+- 🎨 Modern & Minimal User Interface
+- ⚡ Optimized Performance
+- 📱 Fully Responsive Design
+- 🌈 Smooth Animations
+- 🚀 Fast Loading Experience
+- 💻 Cross-Browser Compatibility
 
-## Tech Stack
+---
 
-- **Framework**: React 19 / TypeScript
-- **Styling**: Tailwind CSS v4
-- **Animations**: Motion (Framer Motion)
-- **Icons**: Lucide React
-- **Build Tool**: Vite
+## 🛠️ Tech Stack
+
+### Frontend
+- React.js
+- JavaScript (ES6+)
+- Vite
+
+### 3D Graphics
+- Three.js
+- React Three Fiber
+- Drei
+
+### Styling
+- CSS3
+
+---
+
+## 📂 Project Structure
+
+```text
+3D-Shoe-Showcase
+│
+├── public/
+├── src/
+│   ├── assets/
+│   ├── components/
+│   ├── App.jsx
+│   ├── main.jsx
+│   └── styles/
+│
+├── package.json
+├── vite.config.js
+└── README.md
+```
+
+---
+
+## 🚀 Installation
+
+Clone the repository
+
+```bash
+git clone https://github.com/yourusername/3d-shoe-showcase.git
+```
+
+Navigate to the project
+
+```bash
+cd 3d-shoe-showcase
+```
+
+Install dependencies
+
+```bash
+npm install
+```
+
+Start the development server
+
+```bash
+npm run dev
+```
+
+---
+
+## 🎯 Project Highlights
+
+- Realistic 3D product visualization
+- Interactive user experience
+- Modern responsive interface
+- Clean component-based architecture
+- Optimized rendering performance
+- Scalable project structure
+
+---
+
+## 🔮 Future Improvements
+
+- Multiple Shoe Collections
+- Product Customization
+- Dark Mode
+- Shopping Cart Integration
+- Wishlist Feature
+- Product Details Page
+- Payment Integration
+
+---
+
+## 🌐 Live Demo
+
+**https://3d-shoe-showcase-917-beta.vercel.app/**
+
+---
+
+## 👨‍💻 Author
+
+**Tarun Sakhamuri**
+
+- GitHub: https://github.com/tarunsakamuri
+
+---
+
+## ⭐ Support
+
+If you found this project helpful, please consider giving it a **Star** ⭐ on GitHub.
+
+---
+
+<div align="center">
+
+### Built with ❤️ using React & Three.js
+
+**Turning Ideas into Interactive 3D Experiences**
+
+</div>
